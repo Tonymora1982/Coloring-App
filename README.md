@@ -4,7 +4,21 @@ Una app Android divertida e intuitiva desarrollada 100% en Kotlin para que niño
 
 ## 📸 Vista previa
 
-![Captura de pantalla](./35c7b118-d707-4a0c-bcad-148b7fd2de5e.png)
+<p float="left">
+  <img src="./AppDibujo1.png" width="250"/>
+  <img src="./AppDibujo2.png" width="250"/>
+  <img src="./AppDibujo3.png" width="250"/>
+</p>
+
+<p float="left">
+  <img src="./AppDibujo5.png" width="250"/>
+  <img src="./AppDibujo6.png" width="250"/>
+</p>
+
+<p align="center">
+  <img src="./AppDibujo4.png" width="600"/>
+</p>
+
 
 ## 📥 Descargar la App
 
